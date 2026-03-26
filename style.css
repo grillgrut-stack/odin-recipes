@@ -1,0 +1,23 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.title {
+    text-align: center;
+    color: lightcoral;
+    background-color: lavender;
+    padding: 20px;
+    border: 2px dashed red;
+}
+
+a {
+    background-color: lightsteelblue;
+    padding: 12px;
+    text-decoration: none;
+
+}
+
+div {
+    text-align: center;
+}
