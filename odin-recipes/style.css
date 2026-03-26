@@ -17,6 +17,7 @@ div {
 
 h2, h3 {
     text-align: center;
+    text-decoration: underline;
 }
 
 p {
